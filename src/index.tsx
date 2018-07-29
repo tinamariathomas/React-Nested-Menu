@@ -2,7 +2,7 @@ import * as React from "react";
 import * as ReactDOM from "react-dom";
 
 import {IMenuData} from "./components/Menu";
-import MenuEditor from "./components/MenuEditor1";
+import MenuEditor from "./components/MenuView";
 
 const menu : IMenuData = {
     label: 'Blah',
